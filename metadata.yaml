@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/246
     wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41921#The-Maker-of-RainbowsAnd-other-Fairy-tales-and-Fables
 gutenberg_issued: '2013-01-26'
 gutenberg_type: Text
 identifiers:
